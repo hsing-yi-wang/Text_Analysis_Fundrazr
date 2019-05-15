@@ -1,0 +1,6 @@
+flask
+pandas
+gunicorn
+nltk
+scikit-learn==0.20.2
+sklearn
